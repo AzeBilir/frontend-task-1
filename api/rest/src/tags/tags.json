@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "FIrst Edition",
+    "image": null,
+    "icon": null,
+    "slug": "first-edition",
+    "group": "Books"
+  },
+  {
+    "id": 2,
+    "name": "Second Edition",
+    "image": null,
+    "icon": null,
+    "slug": "second-edition",
+    "group": "Books"
+  }
+]

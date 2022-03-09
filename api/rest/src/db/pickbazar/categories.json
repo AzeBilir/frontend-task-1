@@ -11848,5 +11848,276 @@
       "updated_at": "2021-09-27T14:08:07.000000Z"
     },
     "children": []
+  },
+  {
+    "id": 171,
+    "name": "Science Fiction",
+    "slug": "science-fiction",
+    "icon": null,
+    "image": {
+      "id": 1337,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1378/conversions/Science-Fiction-thumbnail.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1378/conversions/Science-Fiction-thumbnail.jpg"
+    },
+    "details": null,
+    "parent": null,
+    "type_id": 8,
+    "created_at": "2021-10-03T06:24:11.000000Z",
+    "updated_at": "2021-10-03T06:24:11.000000Z",
+    "deleted_at": null,
+    "parent_id": null,
+    "type": {
+      "id": 8,
+      "name": "Books",
+      "settings": {
+        "isHome": false,
+        "layoutType": "minimal",
+        "productCard": "krypton"
+      },
+      "slug": "books",
+      "icon": "BookIcon",
+      "promotional_sliders": null,
+      "created_at": "2021-09-27T14:08:07.000000Z",
+      "updated_at": "2021-09-27T14:08:07.000000Z"
+    },
+    "children": []
+  },
+  {
+    "id": 172,
+    "name": "Literature",
+    "slug": "literature",
+
+    "icon": null,
+    "image": {
+      "id": 1338,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1377/conversions/Literature-thumbnail.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1377/conversions/Literature-thumbnail.jpg"
+    },
+    "details": null,
+    "parent": null,
+    "type_id": 8,
+    "created_at": "2021-10-03T06:24:11.000000Z",
+    "updated_at": "2021-10-03T06:24:11.000000Z",
+    "deleted_at": null,
+    "parent_id": null,
+    "type": {
+      "id": 8,
+      "name": "Books",
+      "settings": {
+        "isHome": false,
+        "layoutType": "minimal",
+        "productCard": "krypton"
+      },
+      "slug": "books",
+      "icon": "BookIcon",
+      "promotional_sliders": null,
+      "created_at": "2021-09-27T14:08:07.000000Z",
+      "updated_at": "2021-09-27T14:08:07.000000Z"
+    },
+    "children": []
+  },
+  {
+    "id": 173,
+    "name": "Children's Literature",
+    "slug": "children's-literature",
+
+    "icon": null,
+    "image": {
+      "id": 1339,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1379/conversions/Children-Literature-thumbnail.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1379/conversions/Children-Literature-thumbnail.jpg"
+    },
+    "details": null,
+    "parent": null,
+    "type_id": 8,
+    "created_at": "2021-10-03T06:24:11.000000Z",
+    "updated_at": "2021-10-03T06:24:11.000000Z",
+    "deleted_at": null,
+    "parent_id": null,
+    "type": {
+      "id": 8,
+      "name": "Books",
+      "settings": {
+        "isHome": false,
+        "layoutType": "minimal",
+        "productCard": "krypton"
+      },
+      "slug": "books",
+      "icon": "BookIcon",
+      "promotional_sliders": null,
+      "created_at": "2021-09-27T14:08:07.000000Z",
+      "updated_at": "2021-09-27T14:08:07.000000Z"
+    },
+    "children": []
+  },
+  {
+    "id": 174,
+    "name": "Comic books",
+    "slug": "Comic-books",
+
+    "icon": null,
+    "image": {
+      "id": 1340,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1380/conversions/Comic-Books-thumbnail.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1380/conversions/Comic-Books-thumbnail.jpg"
+    },
+    "details": null,
+    "parent": null,
+    "type_id": 8,
+    "created_at": "2021-10-03T06:24:11.000000Z",
+    "updated_at": "2021-10-03T06:24:11.000000Z",
+    "deleted_at": null,
+    "parent_id": null,
+    "type": {
+      "id": 8,
+      "name": "Books",
+      "settings": {
+        "isHome": false,
+        "layoutType": "minimal",
+        "productCard": "krypton"
+      },
+      "slug": "books",
+      "icon": "BookIcon",
+      "promotional_sliders": null,
+      "created_at": "2021-09-27T14:08:07.000000Z",
+      "updated_at": "2021-09-27T14:08:07.000000Z"
+    },
+    "children": []
+  },
+  {
+    "id": 175,
+    "name": "Horror Fiction",
+    "slug": "horror-fiction",
+
+    "icon": null,
+    "image": {
+      "id": 1341,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1381/conversions/Horror-Books-thumbnail.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1381/conversions/Horror-Books-thumbnail.jpg"
+    },
+    "details": null,
+    "parent": null,
+    "type_id": 8,
+    "created_at": "2021-10-03T06:24:11.000000Z",
+    "updated_at": "2021-10-03T06:24:11.000000Z",
+    "deleted_at": null,
+    "parent_id": null,
+    "type": {
+      "id": 8,
+      "name": "Books",
+      "settings": {
+        "isHome": false,
+        "layoutType": "minimal",
+        "productCard": "krypton"
+      },
+      "slug": "books",
+      "icon": "BookIcon",
+      "promotional_sliders": null,
+      "created_at": "2021-09-27T14:08:07.000000Z",
+      "updated_at": "2021-09-27T14:08:07.000000Z"
+    },
+    "children": []
+  },
+  {
+    "id": 176,
+    "name": "Novels",
+    "slug": "novels",
+
+    "icon": null,
+    "image": {
+      "id": 1342,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1382/conversions/Novel-thumbnail.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1382/conversions/Novel-thumbnail.jpg"
+    },
+    "details": null,
+    "parent": null,
+    "type_id": 8,
+    "created_at": "2021-10-03T06:24:11.000000Z",
+    "updated_at": "2021-10-03T06:24:11.000000Z",
+    "deleted_at": null,
+    "parent_id": null,
+    "type": {
+      "id": 8,
+      "name": "Books",
+      "settings": {
+        "isHome": false,
+        "layoutType": "minimal",
+        "productCard": "krypton"
+      },
+      "slug": "books",
+      "icon": "BookIcon",
+      "promotional_sliders": null,
+      "created_at": "2021-09-27T14:08:07.000000Z",
+      "updated_at": "2021-09-27T14:08:07.000000Z"
+    },
+    "children": []
+  },
+  {
+    "id": 177,
+    "name": "Romantic Poetry",
+    "slug": "romantic-poetry",
+
+    "icon": null,
+    "image": {
+      "id": 1343,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1383/conversions/Romantic-Books-thumbnail.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1383/conversions/Romantic-Books-thumbnail.jpg"
+    },
+    "details": null,
+    "parent": null,
+    "type_id": 8,
+    "created_at": "2021-10-03T06:24:11.000000Z",
+    "updated_at": "2021-10-03T06:24:11.000000Z",
+    "deleted_at": null,
+    "parent_id": null,
+    "type": {
+      "id": 8,
+      "name": "Books",
+      "settings": {
+        "isHome": false,
+        "layoutType": "minimal",
+        "productCard": "krypton"
+      },
+      "slug": "books",
+      "icon": "BookIcon",
+      "promotional_sliders": null,
+      "created_at": "2021-09-27T14:08:07.000000Z",
+      "updated_at": "2021-09-27T14:08:07.000000Z"
+    },
+    "children": []
+  },
+  {
+    "id": 178,
+    "name": "Thriller",
+    "slug": "thriller",
+
+    "icon": null,
+    "image": {
+      "id": 1344,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1384/conversions/Thriller-thumbnail.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1384/conversions/Thriller-thumbnail.jpg"
+    },
+    "details": null,
+    "parent": null,
+    "type_id": 8,
+    "created_at": "2021-10-03T06:24:11.000000Z",
+    "updated_at": "2021-10-03T06:24:11.000000Z",
+    "deleted_at": null,
+    "parent_id": null,
+    "type": {
+      "id": 8,
+      "name": "Books",
+      "settings": {
+        "isHome": false,
+        "layoutType": "minimal",
+        "productCard": "krypton"
+      },
+      "slug": "books",
+      "icon": "BookIcon",
+      "promotional_sliders": null,
+      "created_at": "2021-09-27T14:08:07.000000Z",
+      "updated_at": "2021-09-27T14:08:07.000000Z"
+    },
+    "children": []
   }
 ]
