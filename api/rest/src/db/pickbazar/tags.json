@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "name": "FIrst Edition",
+    "slug": "first-edition",
+    "group": "Books"
+  },
+  {
+    "id": 2,
+    "name": "Second Edition",
+    "slug": "second-edition",
+    "group": "Books"
+  },
+  {
+    "id": 3,
+    "name": "Third Edition",
+    "slug": "third-edition",
+    "group": "Books"
+  },
+  {
+    "id": 4,
+    "name": "Latest Edition",
+    "slug": "latest-edition",
+    "group": "Books"
+  },
+  {
+    "id": 5,
+    "name": "Special Edition",
+    "slug": "special-edition",
+    "group": "Books"
+  },
+  {
+    "id": 6,
+    "name": "Cerebral",
+    "slug": "cerebral",
+    "group": "Books"
+  },
+  {
+    "id": 7,
+    "name": "Suspense",
+    "slug": "suspense",
+    "group": "Books"
+  },
+  {
+    "id": 8,
+    "name": "Gothic",
+    "slug": "gothic",
+    "group": "Books"
+  },
+  {
+    "id": 9,
+    "name": "Disturbing",
+    "slug": "disturbing",
+    "group": "Books"
+  },
+  {
+    "id": 10,
+    "name": "Romance",
+    "slug": "romance",
+    "group": "Books"
+  },
+  {
+    "id": 11,
+    "name": "Love",
+    "slug": "love",
+    "group": "Books"
+  },
+  {
+    "id": 12,
+    "name": "Moment",
+    "slug": "moment",
+    "group": "Books"
+  },
+  {
+    "id": 13,
+    "name": "Award Winning",
+    "slug": "award-winning",
+    "group": "Books"
+  },
+  {
+    "id": 14,
+    "name": "Scary",
+    "slug": "scary",
+    "group": "Books"
+  },
+  {
+    "id": 15,
+    "name": "Devil",
+    "slug": "devil",
+    "group": "Books"
+  },
+  {
+    "id": 16,
+    "name": "Cartoon",
+    "slug": "cartoon",
+    "group": "Books"
+  },
+  {
+    "id": 17,
+    "name": "Children",
+    "slug": "children",
+    "group": "Books"
+  },
+  {
+    "id": 18,
+    "name": "Super Hero",
+    "slug": "super-hero",
+    "group": "Books"
+  },
+  {
+    "id": 19,
+    "name": "Comedy",
+    "slug": "comedy",
+    "group": "Books"
+  },
+  {
+    "id": 20,
+    "name": "Kid Story",
+    "slug": "kid-story",
+    "group": "Books"
+  },
+  {
+    "id": 21,
+    "name": "Sad",
+    "slug": "sad",
+    "group": "Books"
+  },
+  {
+    "id": 22,
+    "name": "Tear",
+    "slug": "tear",
+    "group": "Books"
+  },
+  {
+    "id": 23,
+    "name": "Space",
+    "slug": "space",
+    "group": "Books"
+  },
+  {
+    "id": 24,
+    "name": "Fantasy",
+    "slug": "fantasy",
+    "group": "Books"
+  },
+  {
+    "id": 25,
+    "name": "Touching",
+    "slug": "touching",
+    "group": "Books"
+  },
+  {
+    "id": 26,
+    "name": "Combo",
+    "slug": "combo",
+    "group": "Books"
+  }
+]

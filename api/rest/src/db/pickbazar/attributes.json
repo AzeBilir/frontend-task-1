@@ -169,7 +169,7 @@
     "id": 5,
     "slug": "language",
     "name": "Language",
-    "shop_id": 2,
+    "shop_id": 8,
     "created_at": "2021-05-09T16:10:40.000000Z",
     "updated_at": "2021-05-09T16:10:40.000000Z",
     "values": [
@@ -264,7 +264,7 @@
     "id": 6,
     "slug": "book-type",
     "name": "Book Type",
-    "shop_id": 2,
+    "shop_id": 8,
     "created_at": "2021-05-09T16:10:40.000000Z",
     "updated_at": "2021-05-09T16:10:40.000000Z",
     "values": [

@@ -363,7 +363,7 @@
         "id": 23,
         "type_id": 8,
         "title": "Meet Your Next Favorite Books",
-        "description": "",
+        "description": "This is the book shop. All the publications sells their book under this book shop",
         "image": {
           "id": 1344,
           "original": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1376%2FCover.png&w=1920&q=75",

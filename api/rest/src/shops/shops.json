@@ -450,27 +450,27 @@
     "owner_id": 1,
     "name": "Book Shop",
     "slug": "book-shop",
-    "description": "Meet Your Next Favorite Books",
+    "description": "This is the book shop. All the publications sells their book under this book shop",
     "cover_image": {
       "id": "896",
       "original": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1376%2FCover.png&w=1920&q=75",
       "thumbnail": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1376%2FCover.png&w=1920&q=75"
     },
     "logo": {
-      "id": "891",
-      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/conversions/Publisher-logo-thumbnail.jpg",
-      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/conversions/Publisher-logo-thumbnail.jpg"
+      "id": "900",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/889/Makeup.png",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/889/Makeup.png"
     },
     "is_active": 1,
     "address": {
-      "zip": "61032",
-      "city": "Freeport",
-      "state": "Illinois",
+      "zip": "8021",
+      "city": "zurich",
+      "state": "California",
       "country": "USA",
-      "street_address": "1986  Spinnaker Lane"
+      "street_address": "44444"
     },
     "settings": {
-      "contact": "018927525111",
+      "contact": "0799302967",
       "socials": [
         {
           "url": "https://www.facebook.com/",
@@ -497,7 +497,7 @@
     },
     "created_at": "2021-06-27T03:48:23.000000Z",
     "updated_at": "2021-07-08T09:22:38.000000Z",
-    "orders_count": 0,
+    "orders_count": 12,
     "products_count": 60,
     "owner": {
       "id": 1,
