@@ -458,8 +458,8 @@
     },
     "logo": {
       "id": "900",
-      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/889/Makeup.png",
-      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/889/Makeup.png"
+      "original": "https://pickbazar-react-admin-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1613%2Fconversions%2FPublisher-logo-thumbnail.jpg&w=1920&q=75",
+      "thumbnail": "https://pickbazar-react-admin-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1613%2Fconversions%2FPublisher-logo-thumbnail.jpg&w=1920&q=75"
     },
     "is_active": 1,
     "address": {
